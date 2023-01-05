@@ -18,7 +18,16 @@ class LoginPage extends StatelessWidget {
                   color: Colors.white,
                   fontWeight: FontWeight.bold),
             ),
-            Image.asset('images/algo'),
+            const SizedBox(height: 10.0),
+            ClipRRect(
+              borderRadius: const BorderRadius.all(Radius.circular(100)),
+              child: Image.asset(
+                'images/moon.jpg',
+                height: 200,
+                width: 170,
+              ),
+            ),
+            const SizedBox(height: 10.0)
           ],
         ),
       ),

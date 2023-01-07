@@ -5,7 +5,7 @@ class LoginPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    MaterialColor redAccent = Colors.red;
+    Color redAccent = Colors.blue.shade900;
     return Scaffold(
       body: Center(
         child: Column(

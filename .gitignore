@@ -19,3 +19,10 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+learn_app/linux/flutter/generated_plugin_registrant.cc
+learn_app/linux/flutter/generated_plugin_registrant.h
+learn_app/linux/flutter/generated_plugins.cmake
+learn_app/macos/Flutter/GeneratedPluginRegistrant.swift
+learn_app/windows/flutter/generated_plugin_registrant.cc
+learn_app/windows/flutter/generated_plugin_registrant.h
+learn_app/windows/flutter/generated_plugins.cmake
